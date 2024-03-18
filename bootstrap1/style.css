@@ -1,0 +1,219 @@
+.logo{
+    width: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.button{
+    background-color:#5fcac7 ;
+    padding: 10px;
+    width: 200px;
+}
+
+.icons{
+   display: flex;
+   flex-direction: row;
+    align-items: center;
+    margin-left: 30px;
+    gap: 30px;
+}
+.heading{
+    font-size: 80px;
+}
+.para{
+    font-size: 50px;
+}
+.slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    position: absolute;
+    top: 50px;
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 0;
+    margin-top: 30px;
+    font-weight: 500;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 1.375rem;
+    line-height: 32px;
+    font-style: normal;
+}
+.heading{
+    margin-top: 10%;
+}
+.d-block{
+    filter: blur(3px);
+
+}
+.btn{
+    margin-top: 30px;
+}
+.text-heading{
+    font-weight: 700;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 4.5rem;
+    line-height: 86px;
+}
+.nav-link{
+    margin-left: 35%;
+    margin-top: 15px;
+    font-size: large;
+}
+.icons{
+    margin-left:50%;
+    margin-top: auto;
+}
+.btn2{
+   margin-left: 100%;
+}
+.navbar{
+    margin-top: auto;
+}
+.row1{
+    justify-content: center;
+    margin-left: 8%;
+    display: flex;
+}
+.magic{
+    background-color: #5fcac7;
+}
+
+.clr {
+    color: #fbfcfd;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-family: "DM Sans", sans-serif;
+    text-align: center;
+  }
+  .margin > h1 {
+    margin-bottom: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .discover {
+    background: linear-gradient(
+        rgba(72, 213, 213, 0.881),
+        rgba(153, 218, 218, 0.881)),
+      
+      url("images/Cookies\ Delivery.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-top: 150px;
+    padding-bottom: 200px;
+    padding-left: 130px;
+    padding-right: 130px;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+  }
+.content {
+    padding-top: 0px;
+    padding-bottom: 50px;
+    border: 4px solid white;
+    width: 890px;
+    height: 500px;
+  }
+  .solid {
+    color: white;
+  }
+  .icon2 {
+    text-align: center;
+    font-size: 62px;
+  }
+  .h1kamagic {
+    margin-top: 20px;
+    font-family: "DM Sans", sans-serif;
+    font-size: 2.625rem;
+    font-style: normal;
+    font-weight: 700;
+    color: white;
+  }
+  #p {
+    width: 574px;
+    height: 52px;
+  }
+  .p {
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    color: white;
+    margin-top: 25px;
+  }
+  .btn2 {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    width: 175px;
+    height: 50px;
+    border-radius: 50px;
+    font-family: "DM Sans", sans-serif;
+    font-size: 1.125rem;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 40px;
+    justify-content: center;
+    margin-right: 130px;
+  }
+  .btn2:hover {
+    background: white;
+    color: #6c757d;
+    font-weight: 600;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .pink {
+    color: #ff91a4;
+    padding-bottom: 15px;
+  }
+  .black {
+    color: #4b4342;
+  }
+
+.bg{
+    filter: blur(1px);
+    width: auto;
+}
+.hs{
+    color: #4b4342 ;
+   margin:50px;
+   font-size: 50px;
+}
+.image{
+    width: 300px;
+}
+.im{
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.background{
+  filter: blur(1px); 
+  background-image:url(https://images.unsplash.com/photo-1486427944299-d1955d23e34d?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+.card{
+    background-color: pink;
+}
+.client{
+    background-color: pink;
+    color: white;
+   
+    
+}
+.clientsimg{
+    width:100px ;
+    margin-left: 30px;
+}
+.the-end{
+    background-color: #4b4342;
+   padding-top: 30px;
+}
+.email{
+    background: transparent;
+width: 50px;
+}
